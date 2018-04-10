@@ -1,19 +1,19 @@
-Hower:
-  name:              whatwhyhow7
-  email:             wangwenhao.rar@gmail.com
+Timmy:
+  name:              DuncanTim21
+  email:             15509333944@163.com
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     出家人不打诳语，你这个需求我说做不了就是做不了。
 
   picture:
-    src:               /blog/assets/img/me.jpg
+    src:               /blog/assets/img/duncan.png
 
   social:
-    home:              https://whatwhyhow7.github.io/
-    photo:             https://whatwhyhow7.github.io/photo/
-    gitHub:            whatwhyhow7
-    email:             mailto:wangwenhao.rar@gmail.com
+    home:              https://DuncanTim21.github.io/
+    photo:             https://DuncanTim21.github.io/photo/
+    gitHub:            DuncanTim21
+    email:             mailto:15509333944@163.com
     # facebook:        <username>
     # twitter:         <username>
     # google:          <number>
