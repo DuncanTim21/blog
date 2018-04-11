@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hower Blog
+title:               Timmy Blog
 
 baseurl:             /blog
 
@@ -13,8 +13,8 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              whatwhyhow7
-  email:             wangwenhao.rar@gmail.com
+  name:              DuncanTim21
+  email:             15509333944@163.com
 
 # Fallback image and color
 image:               /blog/assets/img/
