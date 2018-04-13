@@ -23,7 +23,7 @@ tags: [Front-End]
 
 ```js
     function Blog() {
-        this.name = 'whatwhyhow7';
+        this.name = 'duncantim21';
         this.year = 2016;
     }
     var blog = new Blog();
