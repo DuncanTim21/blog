@@ -16,10 +16,10 @@ tags: [Front-End]
 1.将下载下来的ckeditor文件解压后，直接复制，粘贴到WEB项目的webroot目录。（项目一放进去就报错，不用管它。这是因为IDE工具版本的问题）
 2.在网页上添加两句话：
 
-2.导入JS文件：<script src="//cdn.ckeditor.com/4.4.5/standard/ckeditor.js"></script>  注意：这句话是在电脑能联网的时候才有效的，因为路径是通过网络访问到的。
+2.导入JS文件：`<script src="//cdn.ckeditor.com/4.4.5/standard/ckeditor.js"></script> ` 注意：这句话是在电脑能联网的时候才有效的，因为路径是通过网络访问到的。
 
-你也可以使用另外一句话：<script src="ckeditor_4.4.5_standard/ckeditor/ckeditor.js"></script> 这样，就可以在没有联网的情况也可以使用到ckeditor。
+你也可以使用另外一句话：`<script src="ckeditor_4.4.5_standard/ckeditor/ckeditor.js"></script>` 这样，就可以在没有联网的情况也可以使用到ckeditor。
 
 其实就是导入一份JS文件，如果你看不到效果的话，检查下路径是否有错误就可以了。
 
-3.弄个textarea标签显示ckeditor：<textarea id="editor" class="ckeditor"></textarea>(注意，里面的id  class属性值一个都不能错，不能省)
+3.弄个textarea标签显示ckeditor：`<textarea id="editor" class="ckeditor"></textarea>`(注意，里面的id  class属性值一个都不能错，不能省)
