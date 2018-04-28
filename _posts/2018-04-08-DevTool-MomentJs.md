@@ -11,8 +11,10 @@ tags: [Dev-Tool]
 
 ### 日期格式化
 
-```moment().format('MMMM Do YYYY, h:mm:ss a'); // 四月 28日 2018, 4:05:15 下午
+```
+moment().format('MMMM Do YYYY, h:mm:ss a'); // 四月 28日 2018, 4:05:15 下午
 moment().format('dddd');                    // 星期六
 moment().format("MMM Do YY");               // 4月 28日 18
 moment().format('YYYY [escaped] YYYY');     // 2018 escaped 2018
-moment().format();                          // 2018-04-28T16:05:15+08:00```
+moment().format();                          // 2018-04-28T16:05:15+08:00
+```
