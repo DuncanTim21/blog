@@ -94,6 +94,15 @@ gems:
   - jekyll-relative-links
   - jekyll-sitemap
 
+# plugins:
+#   - jekyll-default-layout
+#   - jekyll-feed
+#   - jekyll-optional-front-matter
+#   - jekyll-paginate
+#   - jekyll-redirect-from
+#   - jekyll-relative-links
+#   - jekyll-sitemap
+
 exclude:
   - README.md
   - node_modules
