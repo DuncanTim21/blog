@@ -51,3 +51,52 @@ moment().format('lll');  // 2018年5月2日下午4点40分
 moment().format('LLLL'); // 2018年5月2日星期三下午4点40分
 moment().format('llll'); // 2018年5月2日星期三下午4点40分
 ```
+
+#### 日期对象 
+可以`Moment`使用预先存在的本地`JavaScript Date`对象创建一个。
+```
+var day = new Date(2011, 9, 16);
+var dayWrapper = moment(day);
+```
+这克隆了`Date`对象; 进一步的改变`Date`不会影响到`Moment`，反之亦然。
+
+#### 当前时间 
+获取当前日期和时间，只需调用`moment()`不带参数
+```
+var now = moment();
+```
+
+#### 字符串+格式 
+
+> moment(String, String);
+> 
+> moment(String, String, String);
+> 
+> moment(String, String, Boolean);
+> 
+> moment(String, String, String, Boolean);
+
+`moment("12-25-1995", "MM-DD-YYYY");`
+
+解析器会忽略非字母数字字符，因此以下两者都会返回相同的内容
+```
+moment("12-25-1995", "MM-DD-YYYY");
+moment("12/25/1995", "MM-DD-YYYY");
+```
+
+#### 加法
+> moment().add(Number, String);
+> 
+> moment().add(Duration);
+> 
+> moment().add(Object);
+
+通过增加时间来改变原始时刻。
+
+这是一个非常强大的功能，可以将时间添加到现有时刻。要添加时间，请传递您想要添加的时间以及要添加的类型。
+
+> `moment().add(7, 'days');`
+
+如果你喜欢整个简洁的东西，还有一些速记键.
+
+> `moment().add(7, 'd');`
