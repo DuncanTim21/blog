@@ -1,6 +1,6 @@
 ---
 layout: post
-title:SVN在服务器的搭建与使用
+title: SVN在服务器的搭建与使用
 tags: [Back-End]
 ---
 
