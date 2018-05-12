@@ -18,5 +18,12 @@ tags: [Front-End]
 ### 原因
 在仔细阅读Ant文档后,我找到了这样的解释.
 > 设置一组输入控件的值（注意：不要在 componentWillReceiveProps 内使用，否则会导致死循环）
+
 看起来并不是自己的逻辑出现了问题,再去了解一下Ant和react生命周期的一些底层原理.我可以基本清楚:
+
 > `setFieldsValue` 本质是调用外层 wrapper 的 `setState`，间接调用`componentWillReceiveProps`，所以死循环了。
+
+因此针对上面出现的原因我们可以得出如下几个解决方案:
+
+### 解决方案
+
