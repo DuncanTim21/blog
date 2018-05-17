@@ -8,7 +8,7 @@ tags: [Back-End]
 {:.message}
 
 
-# 银行项目后端学习
+
 ### 1.项目使用
 #### 1.1 启动项目
 进入rails服务所在文件夹(/liucc/liujiawen/omm3.2下服务器)
