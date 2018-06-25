@@ -163,5 +163,5 @@ user.update_attributes(name: "The Dude", email: "dude@abides.org")
 
 下面的内容将尽可能参考**Ruby on Rails.pdf**一书,这本书作为rails上手学习再适合不过
 
-在上面的例子中 , 我们已经创建了`User`模型,接下来要实现一个更加进阶的例子,也是本书着重介绍的例子,**用户注册**!
+在上面的例子中 , 我们已经创建了`User`模型,接下来要实现一个更加进阶的例子,也是着重介绍的例子,**用户注册**!
 
