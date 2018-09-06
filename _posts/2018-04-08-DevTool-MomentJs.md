@@ -100,6 +100,11 @@ moment("12/25/1995", "MM-DD-YYYY");
 
 如果你喜欢整个简洁的东西，还有一些速记键.
 
+<<<<<<< HEAD
 > `moment().add(7, 'd');`
 
 未完成!!!!aldkfhlaskjflkajsdlfasdfasdfas
+=======
+> `moment().add(7, 'd');
+未完成!dd
+>>>>>>> f38d49c4b305f18ce7e56bc41a93702dee7be693
