@@ -104,7 +104,3 @@ moment("12/25/1995", "MM-DD-YYYY");
 > `moment().add(7, 'd');`
 
 未完成!!!!aldkfhlaskjflkajsdlfasdfasdfas
-=======
-> `moment().add(7, 'd');
-未完成!dd
->>>>>>> f38d49c4b305f18ce7e56bc41a93702dee7be693
