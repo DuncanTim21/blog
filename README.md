@@ -1,6 +1,7 @@
 # DuncanTim21's blog
 
 这是 [@DuncanTim21](https://DuncanTim21.github.io/blog) 的个人技术博客。
+此项目默认推送至GitHub上,望注意!
 
 ## 主要内容
 
