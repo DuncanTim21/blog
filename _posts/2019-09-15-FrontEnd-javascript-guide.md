@@ -4,9 +4,6 @@ title: JS 编码规范
 tags: [Front-End]
 ---
 
-# JS 编码规范
-
-> 参考链接：[JavaScript Standard Style](https://standardjs.com/)
 
 ## 目录
 * [缩进](#js-tab)

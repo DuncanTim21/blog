@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: JavaScript 获取页面内的选择文本
 tags: [Front-End]
@@ -73,4 +73,4 @@ $('body').on('click', function (e) {
         }
     }
 });
-```
+``` -->

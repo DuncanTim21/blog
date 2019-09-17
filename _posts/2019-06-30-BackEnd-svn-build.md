@@ -8,7 +8,7 @@ tags: [Back-End]
 {:.message}
 
 
-
+6888
 ### 1.项目使用
 #### 1.1 启动项目
 进入rails服务所在文件夹(/liucc/liujiawen/omm3.2下服务器)
@@ -24,7 +24,7 @@ tags: [Back-End]
 
 #### 2.1 关于ruby及ruby on rails
 >*Ruby 是一种开源的面向对象程序设计的服务器端脚本语言,Ruby 可运行于多种平台，如 Windows、MAC OS 和 UNIX 的各种版本。Rails 是一个基于 MVC 模式的高效的开发框架。*
-
+ 
 #### 2.2 ruby的安装与rails的搭建
 
 在之前的文章(github pages的搭建)中已经使用过`jekyll`,而使用`jekyll`需要搭建过ruby环境及rails,本文就不再详细概述这样的问题.
